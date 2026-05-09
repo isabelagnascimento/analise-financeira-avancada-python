@@ -28,19 +28,19 @@ Abaixo, apresento os painéis gerados automaticamente pelo script Python utiliza
 
 *Figura 1: Evolução do preço da ação frente às Médias Móveis. O cruzamento destas linhas serve como o gatilho para a estratégia automatizada de compra.*
 
-![Gráfico do Índice de Força Relativa oscilando entre as faixas de 30 e 70]<img width="680" height="537" alt="RSI" src="https://github.com/user-attachments/assets/f498bd40-b30a-4c85-b7bb-22764c19b186" />
+<img width="680" height="537" alt="RSI" src="https://github.com/user-attachments/assets/f498bd40-b30a-4c85-b7bb-22764c19b186" />
 
 *Figura 2: O RSI funciona como o termômetro do ativo. Picos acima da linha tracejada vermelha indicam possível sobrecompra, enquanto vales abaixo da linha verde sinalizam possível sobrevenda.*
 
-![Gráfico do indicador MACD cruzando a linha de sinal]<img width="687" height="535" alt="MACD" src="https://github.com/user-attachments/assets/0d24b835-e351-413a-a639-882f01db6d03" />
+<img width="687" height="535" alt="MACD" src="https://github.com/user-attachments/assets/0d24b835-e351-413a-a639-882f01db6d03" />
 
 *Figura 3: Radar de tendências MACD. O distanciamento e cruzamento entre as linhas indicam o ganho ou a perda de força na movimentação dos preços.*
 
-![Gráfico de Drawdown mostrando quedas acentuadas a partir do topo histórico zero]<img width="698" height="541" alt="Drawdown" src="https://github.com/user-attachments/assets/36794304-7f4d-4522-9f03-04f5b16835c5" />
+<img width="698" height="541" alt="Drawdown" src="https://github.com/user-attachments/assets/36794304-7f4d-4522-9f03-04f5b16835c5" />
 
 *Figura 4: Medição do risco. O gráfico ilustra o Drawdown, evidenciando o tamanho das quedas percentuais sofridas pelo investimento desde os seus pontos de pico.*
 
-![Gráfico comparativo mostrando a diferença de rendimento acumulado entre a estratégia de Buy and Hold e o Robô de Médias]<img width="673" height="547" alt="Comparação de Estratégia" src="https://github.com/user-attachments/assets/096e6337-6ecf-47e9-b308-d3ba7ce24ae1" />
+<img width="673" height="547" alt="Comparação de Estratégia" src="https://github.com/user-attachments/assets/096e6337-6ecf-47e9-b308-d3ba7ce24ae1" />
 
 *Figura 5: Backtesting e Validação. Comparativo de performance acumulada no período entre o investidor Humano (que apenas segurou a ação) e o Robô seguindo estritamente a estratégia de cruzamento de médias.*
 
