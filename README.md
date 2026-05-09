@@ -24,7 +24,7 @@ O algoritmo obteve sucesso em simular cenários de investimento utilizando rigor
 
 Abaixo, apresento os painéis gerados automaticamente pelo script Python utilizando a biblioteca Matplotlib, ilustrando o comportamento da ação e o acionamento da estratégia automatizada.
 
-![Gráfico de linhas mostrando a evolução do preço da ação em comparação com as médias móveis rápida e lenta]<img width="670" height="533" alt="Preço + Médias Moveis" src="https://github.com/user-attachments/assets/b99ca10d-65ed-4c86-b8d0-e5b95eb630c2" />
+<img width="670" height="533" alt="Preço + Médias Moveis" src="https://github.com/user-attachments/assets/b99ca10d-65ed-4c86-b8d0-e5b95eb630c2" />
 
 *Figura 1: Evolução do preço da ação frente às Médias Móveis. O cruzamento destas linhas serve como o gatilho para a estratégia automatizada de compra.*
 
